@@ -1,0 +1,21 @@
+ja:
+  activerecord:
+    attributes:
+      book:
+        title: タイトル
+        memo: メモ
+        author: 著者
+        picture: 画像
+  messeges:
+    notice_create: 正常に作成されました。
+    notice_update: 正常に更新されました。
+    notice_delete: 正常に削除されました。
+    confirm_delete: 本当に削除してもよいですか？
+  event:
+    show: 詳細
+    edit: 編集
+    back: 戻る
+    destroy: 削除
+    new book: 新規追加
+  books: 本一覧
+  editing Book: 編集

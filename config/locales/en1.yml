@@ -1,0 +1,6 @@
+en:
+  messages:
+    notice_create: "%{name} was successfully created."
+    notice_update: "%{name} was successfully updated."
+    notice_delete: "%{name} was successfully destroyed."
+    confirm_delete: Are you sure?
